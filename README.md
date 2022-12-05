@@ -1,2 +1,2 @@
-# Klasifikasi_SinyalEKG
+# Klasifikasi_SinyalECG
 Internship : M Rizky
